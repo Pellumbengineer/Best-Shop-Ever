@@ -1,3 +1,7 @@
+# What is this project about
+
+This project is an e-commerce shop application using the MERN stack, Redux, and React-Bootstrap. The system includes functionality for end users to order and pay for orders, list products, and see product details. Admin panel functionality is partially implemented, allowing user management. The project uses MongoDB as the database, Express.js for the backend, React.js for the frontend, and Node.js as the runtime environment. The project includes CI/CD pipeline setup with GitHub Actions for continuous deployment to Heroku. The live application is hosted at https://antikuarja.herokuapp.com/. The project can be run locally using the command `npm run dev` to run frontend and backend concurrently.
+
 # Antikuarja-Shop
 E commerce shop application using MERN stack, Redux and React-Bootstrap 
 
